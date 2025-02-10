@@ -1,0 +1,3 @@
+Sitemap: https://yamos28.github.io/johns-garage/sitemap.xml
+User-agent:*
+Disallow:
